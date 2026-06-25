@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: harsha0310/ipl:v1
+        image: harsha0310/ipl:v3
         ports:
         - containerPort: 3000   # Use port 3000
 
